@@ -94,13 +94,6 @@ body {
   border: none;
   margin-top: 10px;
   margin-left: 1090px;
-  transition: 0.5s;
-}
-.container button:hover {
-  background: white;
-}
-.container button:hover a {
-  color: #000;
 }
 .container button a {
   color: white;
